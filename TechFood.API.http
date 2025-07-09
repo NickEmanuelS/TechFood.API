@@ -1,0 +1,6 @@
+@TechFood.API_HostAddress = http://localhost:5199
+
+GET {{TechFood.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
