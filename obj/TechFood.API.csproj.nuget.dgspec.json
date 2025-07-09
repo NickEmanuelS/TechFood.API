@@ -31,7 +31,11 @@
         "frameworks": {
           "net9.0": {
             "targetAlias": "net9.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\nicolas.pinho\\Dev\\TechFood\\src\\TechFood.Domain\\TechFood.Domain.csproj": {
+                "projectPath": "C:\\Users\\nicolas.pinho\\Dev\\TechFood\\src\\TechFood.Domain\\TechFood.Domain.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
